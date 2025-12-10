@@ -19,6 +19,9 @@ function createWindow() {
       : `file://${path.join(__dirname, "../out/index.html")}`;
 
   win.loadURL(startUrl);
+  
+  // Open DevTools by default
+  win.webContents.openDevTools();
 }
 
 app.whenReady().then(() => {
