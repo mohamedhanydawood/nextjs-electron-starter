@@ -1,5 +1,5 @@
 # Next.js + Electron Starter
-
+<img width="1785" height="946" alt="Cover" src="https://github.com/user-attachments/assets/2e1d10a1-78f8-49b5-96e2-3f98616b57ed" />
 A modern desktop application starter template combining [Next.js](https://nextjs.org) with [Electron](https://www.electronjs.org/). Build cross-platform desktop apps using React and the latest web technologies.
 
 ## Features
